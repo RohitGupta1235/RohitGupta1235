@@ -1,14 +1,14 @@
 # 💫 About Me:
-Hey👋!<br><br>I'm rRohit Gupta<br><br>🔭 Currently: Student at DSCE(CSE),Bangalore<br>🌱 I’m currently learning DSA<br>👯 I’m looking to collaborate on Web Development projects<br>💬 Ask me about React and DSA<br>📫 How to reach me:Linkedin-@rohit-gupta05/,Twitter-@irohit12
+Hey👋!<br><br>I'm Rohit Gupta<br><br>🔭 Currently: Student at DSCE(CSE),Bangalore<br>🌱 I’m currently learning DSA<br>👯 I’m looking to collaborate on Web Development projects<br>💬 Ask me about React and DSA<br>📫 How to reach me:Linkedin-@rohit-gupta05/,Twitter-@irohit12
 
 
 ## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/rohit-gupta05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham-kumar-3a196a202" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/prats_18" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="prats_18" height="30" width="40"/></a>
-<a href="https://www.hackerrank.com/pratham854305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pratham854305" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pratham_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pratham_18" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/prathamhbp6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prathamhbp6" height="30" width="40" /></a>
+
+
+<a href="https://leetcode.com/rohit_172/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pratham_18" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rohitgupta05ar/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prathamhbp6" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools:
