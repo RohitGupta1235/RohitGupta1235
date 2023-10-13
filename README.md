@@ -34,12 +34,6 @@ Hey👋!<br><br>I'm Rohit Gupta<br><br>🔭 Currently: Student at DSCE(CSE),Bang
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a>
-  <a href="https://pugjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pug/pug-original.svg" alt="pug" width="40" height="40"/> 
-  </a> 
-  <a href="https://ejs.co/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ejs/ejs-original.svg" alt="ejs" width="40" height="40"/> 
-  </a> 
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> 
   </a> 
@@ -64,7 +58,11 @@ Hey👋!<br><br>I'm Rohit Gupta<br><br>🔭 Currently: Student at DSCE(CSE),Bang
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> 
   </a> 
+  <a href="https://jsx.github.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="jsx" width="40" height="40"/> 
+  </a>
 </p>
+
 
 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RohitGupta1235&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
